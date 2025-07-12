@@ -13,14 +13,17 @@ You can explore the project results at three levels of detail:
    - Open `main_notebook.ipynb`
 
 
+
 2. **Summary Report (visualizations, written analysis):**
 
    - Open `Project_Report.pdf`
 
 
+
 3. **Visualizations only:**
 
    - Browse the `Output_Visualizations/` folder
+
 
 
 ---
@@ -43,13 +46,13 @@ The main goal is to test the hypothesis:
 ## Core Analytical Steps in `main_notebook.ipynb`
 
 1. Libraries imported: 
-`pandas` 
-`numpy`
-`seaborn`
-`matplotlib`
-`scipy`
-`sklearn.linear_model`
-`jupyter`
+`pandas`  
+`numpy`  
+`seaborn`  
+`matplotlib`  
+`scipy`  
+`scikit-learn`  
+`jupyter`  
 2. Load & clean datasets (Democracy Index, Press Freedom, Life Expectancy, etc.)
 3. Exploratory Data Analysis:
    - Plot democracy vs. each indicator
