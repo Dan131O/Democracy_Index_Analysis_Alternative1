@@ -1,6 +1,6 @@
 # Democracy Index Analysis – Alternative 1
 
-A data-driven exploration of global Democracy Index trends and their correlations with key socio-economic indicators, implemented entirely in Python and Jupyter.
+**A data-driven exploration of global Democracy Index trends and their correlations with key socio-economic indicators, implemented entirely in Python and Jupyter.**
 
 ---
 
