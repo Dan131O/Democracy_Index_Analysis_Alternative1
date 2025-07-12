@@ -42,7 +42,14 @@ The main goal is to test the hypothesis:
 
 ## Core Analytical Steps in `main_notebook.ipynb`
 
-1. Libraries imported: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scipy`, `sklearn.linear_model`
+1. Libraries imported: 
+`pandas` 
+`numpy`
+`seaborn`
+`matplotlib`
+`scipy`
+`sklearn.linear_model`
+`jupyter`
 2. Load & clean datasets (Democracy Index, Press Freedom, Life Expectancy, etc.)
 3. Exploratory Data Analysis:
    - Plot democracy vs. each indicator
@@ -126,7 +133,6 @@ The main goal is to test the hypothesis:
    jupyter notebook main_notebook.ipynb
    ```
 
----
 
 ### **B) Alternative: Run in Visual Studio Code (VS Code)**
 
@@ -138,7 +144,6 @@ The main goal is to test the hypothesis:
    • The [Jupyter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) lets you view and run cells interactively.
 6. **Select the correct Python interpreter** (the venv you just created) from the kernel picker at the top right of the notebook.
 
----
 
 **You can also run the notebook in Jupyter Lab, Google Colab, or any compatible environment as desired.**
 
@@ -151,14 +156,6 @@ Full dataset references (including links and notes) are included in:
 - The Jupyter notebook: `main_notebook.ipynb`
 - The written report: `Project_Report.pdf`
 
-Briefly, the datasets include:
-
-- Democracy Index (The Economist Intelligence Unit)
-- Press Freedom Index
-- Life Expectancy
-- Education Spending (% of GDP)
-- Population
-
 ---
 
 ## Contact
@@ -168,5 +165,5 @@ Feel free to reach out directly if you'd like to discuss the project or suggest 
 
 ---
 
-*This repository is part of my personal data-analysis portfolio. For more projects, please visit* [*Dan131O/portfolio*](https://github.com/Dan131O/portfolio)*.*
+*This repository is part of my personal portfolio. For more projects, please visit* [*Dan131O/portfolio*](https://github.com/Dan131O/portfolio)*.*
 
