@@ -10,20 +10,17 @@ You can explore the project results at three levels of detail:
 
 1. **Full notebook (source code, visualizations, written analysis):**
 
-   - Open `main_notebook.ipynb`
-
+   - Open `main_notebook.ipynb`  
 
 
 2. **Summary Report (visualizations, written analysis):**
 
-   - Open `Project_Report.pdf`
-
+   - Open `Project_Report.pdf`  
 
 
 3. **Visualizations only:**
 
-   - Browse the `Output_Visualizations/` folder
-
+   - Browse the `Output_Visualizations/` folder  
 
 
 ---
@@ -45,7 +42,7 @@ The main goal is to test the hypothesis:
 
 ## Core Analytical Steps in `main_notebook.ipynb`
 
-1. Libraries imported: 
+1. Libraries imported:  
 `pandas`  
 `numpy`  
 `seaborn`  
