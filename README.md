@@ -86,7 +86,7 @@ The main goal is to test the hypothesis:
 .
 ├── main_notebook.ipynb                # Main analysis: code, report text, graphs (full version)
 ├── Project_Report.pdf                 # Executive summary & key findings (light version)
-├── Output_Visualizations/               # Automatically generated plots from the notebook ("visualization only" overview)
+├── Output_Visualizations/             # Automatically generated plots from the notebook ("visualization only" overview)
 ├── Input_Datasets/                    # Raw CSVs needed for the analysis:
 │   ├── Democracy_Index_2006_2023.csv
 │   ├── Population.csv
