@@ -6,22 +6,22 @@ A data-driven exploration of global Democracy Index trends and their correlation
 
 ## How to View This Project
 
-There are three ways to explore the results of this project, depending on your level of interest and technical background:
+You can explore the project results at three levels of detail:
 
-1. **Full analysis:**
+1. **Full notebook (source code, visualizations, written analysis):**
 
    - Open `main_notebook.ipynb`
-   - Contains: **entire source code, explanations, in-depth analysis, report text, and auto-generated graphs**
 
-2. **Light version (summary PDF):**
+
+2. **Summary Report (visualizations, written analysis):**
 
    - Open `Project_Report.pdf`
-   - Contains: **written report and summary graphs**
 
-3. **Graphs only (quick overview):**
 
-   - Browse the `Output_Graphs/` folder
-   - Contains: **all exported graphs as image files**
+3. **Visualizations only:**
+
+   - Browse the `Output_Visualizations/` folder
+
 
 ---
 
@@ -58,7 +58,7 @@ The main goal is to test the hypothesis:
    - Pearson correlation coefficients
    - Linear regression models
    - Metrics: R² score, regression coefficients for each indicator
-5. Results exported as plots in `Output_Graphs/`
+5. Results exported as plots in `Output_Visualizations/`
 6. Findings summarized in `Project_Report.pdf`
 
 ---
@@ -86,7 +86,7 @@ The main goal is to test the hypothesis:
 .
 ├── main_notebook.ipynb                # Main analysis: code, report text, graphs (full version)
 ├── Project_Report.pdf                 # Executive summary & key findings (light version)
-├── Output_Graphs/                     # Automatically generated plots from the notebook ("graphs only" overview)
+├── Output_Visualizations/               # Automatically generated plots from the notebook ("visualization only" overview)
 ├── Input_Datasets/                    # Raw CSVs needed for the analysis:
 │   ├── Democracy_Index_2006_2023.csv
 │   ├── Population.csv
