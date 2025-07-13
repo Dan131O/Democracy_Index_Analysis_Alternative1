@@ -13,18 +13,15 @@ You can explore the project results at three levels of detail:
 
 1. **Full notebook (source code, visualizations, written analysis):**
 
-   - Open `main_notebook.ipynb`  
-
+   - Open [`main_notebook.ipynb`](./main_notebook.ipynb)
 
 2. **Summary Report (visualizations, written analysis):**
 
-   - Open `Project_Report.pdf`  
-
+   - Open [`Project_Report.pdf`](./Project_Report.pdf)
 
 3. **Visualizations only:**
 
-   - Browse the `Output_Visualizations/` folder  
-
+   - Browse the [`Output_Visualizations/`](./Output_Visualizations/) folder
 
 ---
 
@@ -43,7 +40,7 @@ The main goal is to test the hypothesis:
 
 ---
 
-## Core Analytical Steps in `main_notebook.ipynb`
+## Core Analytical Steps in [`main_notebook.ipynb`](./main_notebook.ipynb)
 
 1. Libraries imported:  
 `pandas`  
@@ -52,7 +49,7 @@ The main goal is to test the hypothesis:
 `matplotlib`  
 `scipy`  
 `scikit-learn`  
-`jupyter`  
+`jupyter`
 2. Load & clean datasets (Democracy Index, Press Freedom, Life Expectancy, etc.)
 3. Exploratory Data Analysis:
    - Plot democracy vs. each indicator
@@ -61,8 +58,8 @@ The main goal is to test the hypothesis:
    - Pearson correlation coefficients
    - Linear regression models
    - Metrics: R² score, regression coefficients for each indicator
-5. Results exported as plots in `Output_Visualizations/`
-6. Findings summarized in `Project_Report.pdf`
+5. Results exported as plots in [`Output_Visualizations/`](./Output_Visualizations/)
+6. Findings summarized in [`Project_Report.pdf`](./Project_Report.pdf)
 
 ---
 
@@ -108,45 +105,43 @@ The main goal is to test the hypothesis:
 
 1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/Dan131O/Democracy_Index_Analysis_Alternative1.git
-   cd Democracy_Index_Analysis_Alternative1
-   ```
+```bash
+git clone https://github.com/Dan131O/Democracy_Index_Analysis_Alternative1.git
+cd Democracy_Index_Analysis_Alternative1
+```
 
-2. **Create and activate a virtual environment**\
-   *(You can name the environment folder as you wish; here we use **`venv`** as an example)*
+2. **Create and activate a virtual environment**  
+*(You can name the environment folder as you wish; here we use **`venv`** as an example)*
 
-   ```bash
-   python -m venv venv
-   # Windows:
-   .\venv\Scripts\activate
-   # Linux/macOS:
-   source venv/bin/activate
-   ```
+```bash
+python -m venv venv
+# Windows:
+.\venv\Scripts\activate
+# Linux/macOS:
+source venv/bin/activate
+```
 
 3. **Install dependencies**
 
-   ```bash
-   python -m pip install -r requirements.txt
-   ```
+```bash
+python -m pip install -r requirements.txt
+```
 
 4. **Run the analysis notebook**
 
-   ```bash
-   jupyter notebook main_notebook.ipynb
-   ```
-
+```bash
+jupyter notebook main_notebook.ipynb
+```
 
 ### **B) Alternative: Run in Visual Studio Code (VS Code)**
 
 1. **Open the project folder in VS Code**
-2. **Open the integrated terminal** (\`Ctrl + \`\`)
+2. **Open the integrated terminal** (`Ctrl + \``)
 3. **Create and activate a virtual environment** as above, if not already done
 4. **Install dependencies** as above, if not already done
-5. **Open **``** directly in VS Code**\
+5. **Open [`main_notebook.ipynb`](./main_notebook.ipynb) directly in VS Code**  
    • The [Jupyter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) lets you view and run cells interactively.
 6. **Select the correct Python interpreter** (the venv you just created) from the kernel picker at the top right of the notebook.
-
 
 **You can also run the notebook in Jupyter Lab, Google Colab, or any compatible environment as desired.**
 
@@ -156,17 +151,17 @@ The main goal is to test the hypothesis:
 
 Full dataset references (including links and notes) are included in:
 
-- The Jupyter notebook: `main_notebook.ipynb`
-- The written report: `Project_Report.pdf`
+- The Jupyter notebook: [`main_notebook.ipynb`](./main_notebook.ipynb)
+- The written report: [`Project_Report.pdf`](./Project_Report.pdf)
 
 ---
 
 ## Contact
 
-Questions, feedback or collaboration ideas are welcome via email (daniel.ourinson@web.de) or [*LinkedIn*](https://www.linkedin.com/in/daniel-ourinson-phd-200755143/).\
+Questions, feedback or collaboration ideas are welcome via email ([daniel.ourinson@web.de](mailto:daniel.ourinson@web.de)) or [*LinkedIn*](https://www.linkedin.com/in/daniel-ourinson-phd-200755143/).  
 Feel free to reach out directly if you'd like to discuss the project or suggest improvements.
 
 ---
 
-*This repository is part of my personal portfolio. For more projects, please visit* [*Dan131O/portfolio*](https://github.com/Dan131O/portfolio)*.*
+*This repository is part of my personal portfolio. For more projects, please visit* [*Dan131O/portfolio*](https://github.com/Dan131O/portfolio)*.
 
