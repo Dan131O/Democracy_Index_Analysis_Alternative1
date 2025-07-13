@@ -2,6 +2,9 @@
 
 **A data-driven exploration of global Democracy Index trends and their correlations with key socio-economic indicators, implemented entirely in Python and Jupyter.**
 
+This is the **first alternative** of the Democracy Index project. For the second version that integrates **Python, SQL, and Tableau**, see:  
+📎 [Alternative 2 – Python + SQL + Tableau version](https://github.com/Dan131O/Democracy_Index_Analysis_Alternative2)
+
 ---
 
 ## How to View This Project
